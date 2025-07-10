@@ -1,1 +1,1 @@
-# DIRECT-Proxy
+# DIRECT-Proxy domain-text
